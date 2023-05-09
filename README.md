@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple website that will link to some recipes for cooking. completing this project demonstrates basic html skills like creating webpages and adding links and images to those pages. 
